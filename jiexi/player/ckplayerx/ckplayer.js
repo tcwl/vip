@@ -52,8 +52,8 @@
 		},
 		menu: { //版权名称支持
 			ckkey: '',
-			name: '看吧解析系统',
-			link: 'Https://jx.cxk8.com',
+			name: '诺讯解析系统',
+			link: 'Https://www.nxflv.com',
 			version: '永久免费无广告',//版本信息
 			domain: '',
 			more: []
